@@ -1,0 +1,4 @@
+﻿  Sinfo.cpp
+D:\GITT\DZ\Zadanie2\Zadanie2\Sinfo.cpp(10,5): error C4996: 'GetVersionExW': объявлен deprecate
+  Zadanie2.cpp
+  Создание кода...
