@@ -1,0 +1,3 @@
+﻿  Igra.cpp
+D:\Проги\Zadan3.2\Zadan3.2\Igra.cpp(22,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Zadan3.2.vcxproj -> D:\Проги\Zadan3.2\x64\Debug\Zadan3.2.exe
